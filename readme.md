@@ -18,8 +18,8 @@ This project provides a FastAPI-based web service for generating audio files fro
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    https://github.com/ha466/AI-Voice-Generator.git
+    cd AI-Voice-Generator
     ```
 
 2. Install the required packages:
